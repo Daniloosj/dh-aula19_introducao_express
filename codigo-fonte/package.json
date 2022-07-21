@@ -1,0 +1,14 @@
+{
+  "name": "aula19-indroducao-express",
+  "version": "1.0.0",
+  "description": "Introdução ao Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danilo J Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
